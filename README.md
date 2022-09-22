@@ -1,5 +1,5 @@
 # Olá eu sou a Rosana Barbosa
-💻 sou Desenvolvedora Back-end em formação, estudante do curso {reprograma}. Sou formada em Redes de computadores,  e pós-graduada em ciência de Dados analytics. 
+💻 sou Desenvolvedora Back-end  pela  {reprograma}. Sou formada em Redes de computadores,  e pós-graduada em ciência de Dados analytics. 
 🏋️‍ adoro crossfit♂️ e  gosto de pedalar.
  Atualmente  estou buscando recolocação nesse mundo Fantátisco de Programação  quero muito poder ingressar nessa área e poder contribuir com meus conhecimentos.
 👩‍💻Atualmente  estou estudando  Javascript 
